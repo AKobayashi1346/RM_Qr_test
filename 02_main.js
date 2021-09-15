@@ -16,7 +16,7 @@
 	
   var trial_A_1 = {
     type: 'html-button-response',
-	stimulus: [scene_1, Q, rew_A, total_point],
+	stimulus: [scene_1, Q, total_point],
     choices: [option_L, option_R],
 	button_html: '%choice%',
 	  on_finish: function(data){
