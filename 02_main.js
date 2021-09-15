@@ -4,7 +4,7 @@
 	
 	var scene_1 = '<div class="text_scene">どちらをおすすめしますか？</div>'
 	
-	var option_L = '<div style="position: absolute; top: 40%; left: 20%"><img src="https://akobayashi1346.github.io/RM_Qr_test/1_C.png" width="200px"></div>'
+	var option_L = '<div style="position: absolute; top: 40%; right: 20%"><img src="https://akobayashi1346.github.io/RM_Qr_test/1_C.png" width="200px"></div>'
 	var option_R = '<div style="position: absolute; top: 40%; left: 20%"><img src="https://akobayashi1346.github.io/RM_Qr_test/2_C.png" width="200px"></div>'
 	var Q = '<div style="position: absolute; top: 45%; right: 45%"><img src="https://akobayashi1346.github.io/RM_Qr_test/Q.png" width="150px"/></div>'
 	
