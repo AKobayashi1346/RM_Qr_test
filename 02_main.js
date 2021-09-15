@@ -4,9 +4,9 @@
 	
 	var scene_1 = '<div class="text_scene">どちらをおすすめしますか？</div>'
 	
-	var option_L = '<div style="position: absolute; top: 40%; left: 20%"><img src=' + repo_site + '"1_C.png" width="200px"/></div>'
-	var option_R = '<div style="position: absolute; top: 40%; right: 20%"><img src=' + repo_site + '"2_C.png" width="200px"/></div>'
-	var Q = '<div style="position: absolute; top: 45%; right: 45%"><img src=' + repo_site + '"Q.png" width="150px"/></div>'
+	var option_L = "<div style='position: absolute; top: 40%; left: 20%><img src='" + repo_site + "'1_C.png width='200px'/></div>"
+	var option_R = "<div style='position: absolute; top: 40%; left: 20%><img src='" + repo_site + "'2_C.png width='200px'/></div>"
+	var Q = "<div style='position: absolute; top: 45%; right: 45%><img src='" + repo_site + "'Q.png width='150px'/></div>"
 	
 	var rew_A = '<div style="position: absolute; top: 35%; right: 20%"><img src=' + repo_site + '"100jpy.png" width="200px"/></div>'
 	
