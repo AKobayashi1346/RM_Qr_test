@@ -20,7 +20,7 @@
     choices: [option_L, option_R],
 	button_html: '%choice%',
 	  on_finish: function(data){
-		  var advice = jsPsych.data.get().select('response');
+		  var advice = jsPsych.data.get();
 	  }	    
     }
 	
